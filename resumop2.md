@@ -147,8 +147,6 @@ Exercício: dado essa árvore fuleira
 
 ```
 
-Claro! Aqui está a versão com cada linha grifada em Markdown:
-
 1. **Quantas subárvores contém TA?** 2 subárvores.
 2. **Quais os nós são folhas?** B, D, G, H
 3. **Quais nós são internos?** A, C, E, F
